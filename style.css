@@ -1,0 +1,349 @@
+body{
+    margin: 0;
+}
+
+#section-1{
+    background-color: #FDF8EE;
+    padding: 4% 10%;
+}
+
+/*navbar*/
+
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #1D1D1D;
+    padding: 0 1%;
+}
+
+.navbar-nav{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: #1D1D1D;
+    padding: 0 2%;
+}
+
+
+.nav-item{
+    padding: 0 12px;
+}
+
+.btn-primary{
+    background-color: #4D2C5E;
+    border-radius: 218px;
+    width: 10rem;
+    height: 3rem;
+}
+
+/*title*/
+.img-wrap{
+    position: relative;
+}
+.img-group{
+    padding:7% 10% 7% 0%;
+    width: 105%;
+}
+.title-1{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 20%;
+    font-size: 3.5rem;
+    width: 45%;
+    font-weight: bold;
+    line-height: 2;
+    color:#050C26;
+    margin-bottom: -3%;
+    
+    
+}
+.para{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 52%;
+    width: 40%;
+    line-height: 2;
+    
+}
+.input-group{
+    position: absolute;
+    width: 30%;
+    top: 70%;
+    border-radius: 20%;
+}
+span{
+    color: #FF7426;
+    
+}
+.img-3{
+    position: absolute;
+    top: 20%;
+    right: 1%;
+    width: 50%;
+
+}
+
+#title-2{
+    background-color: #4D2C5E;
+    padding:2% 0;
+    color: #fff;
+    margin: -8% 7%;
+    border-radius: 1.5rem;
+}
+
+.online{
+    width: 70%;
+    margin-left: 7rem;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.online-img{
+    padding:3% 0 3% 6%;
+    width: 5rem;
+    float: left;
+}
+
+/*section-3 */
+#our-tracker{
+    padding: 15% 15%;
+    
+}
+.ext{
+    text-align: center;
+}
+.text{
+  
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.Tracks{
+    padding-top: 7%;
+}
+.Group-337{
+    width: 20rem;
+    padding-right: 1rem;
+    margin-left: -2.5%;
+    padding-bottom: 1.5%;
+}
+.stars{
+    text-align: right;
+    margin-top: -15%;
+    font-size: 0.70rem; 
+    padding-top: 1.5%;   
+}
+.or{
+    font-size: 16px;
+    color: #ACACAC;
+    font-family: 'Roboto', sans-serif;
+
+}
+.eight{
+    font-weight: bold;
+    margin-bottom: -2%;
+    margin-top: -1%;
+}
+.for{
+    width: 25rem;
+    font-size: 1rem;
+    padding-top: 1%;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-b{
+    padding-right: 5rem;
+    margin-left: -1%;
+}
+.para-1{
+    
+    margin:-22% 0% 0 26%;
+    font-size: 13px;
+    text-align: left;
+    
+}
+
+.ui{
+    display: flex;
+    padding-bottom: 6%;
+
+}
+
+.btn-warning{
+    background-color: #FF7426;
+    width: 8rem;
+    border-radius: 218px;
+    margin-left: 100px;
+    margin-bottom: -3.5%;
+    color: #fff;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+/*experiance*/
+
+#learning{
+    background-color: #FDF8EE;
+    padding: 5% 15% 1%;
+}
+.OBJECTS1{
+    width: 80%;
+    padding-top: 1%;
+}
+.Premium{
+    color: #050C26;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    padding-bottom: 9%;
+}
+
+
+.kin{
+    margin-bottom: 9%;
+    margin-top: 5%;
+}
+.hearts{
+    width: 5rem;
+    float: left;
+    margin:0 6% 3% 0;
+    background-color: #4D2C5E;
+    padding: 3% 3%;
+    border-radius: 23px;
+}
+.lav{
+    color: #050C26;
+    font-weight: bold;
+    font-family: 'Roboto';
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+.bir{
+    font-family: 'Roboto';
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/*student stays*/
+
+#student{
+
+    padding: 7% 15%;
+}
+.say{
+    text-align: center;
+}
+.h1{
+    font-family: 'Roboto';
+    font-weight: bold;
+    line-height: 1.5;
+    
+}
+.p{
+    padding-bottom: 3%;
+}
+.card-wrapper{
+    display: flex;
+}
+.card{
+    margin: 0 2%;
+}
+.carousel-indicators{
+    margin-bottom: -3%;
+}
+
+
+/*our tracks*/
+
+#ourTracks{
+    padding: 7% 15%;
+}
+
+.our{
+    text-align: center;
+}
+.ou{
+    padding-bottom: 4%;
+}
+.ad{
+    width: 20rem;
+   margin: 0.5% 0.5%;
+}
+.natt{
+    text-align: left;
+}
+.ex{
+    width: 19rem;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+   
+}
+
+.brown{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500
+}
+.physics{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+}
+
+.instagram{
+
+    text-align: right;
+    margin-top: -12%;
+    margin-right: 1%;
+    
+}
+
+/*newslatter*/
+
+#newslatter{
+    background-color: #4D2C5E;
+    margin: 7% 15%;
+    padding: 7% 7%;
+    text-align: center;
+    color: #fff;
+    font-family: 'Roboto';
+    border-radius: 1.5rem;
+}
+.latter{
+    padding: 10px;
+    background: #fff;
+    margin: 0 20%;
+    border-radius: 62px;
+    
+}
+input{
+    border: none;
+    outline: none;
+    font-size: 1rem;
+}
+.send{
+    padding: 2% 8%;
+    border-radius: 62px;
+    background-color: #FF7426;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    margin-left: 25%;
+}
+
+/*footer*/
+#footer1{
+    padding: 7% 7%;
+    background-color:  #FDF8EE;;
+    text-align: center;
+}
+.is{margin-top: 3%;}
+.copyright{
+    margin-top: 8%;
+}
